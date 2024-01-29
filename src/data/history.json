@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Backend Developer",
+      "organisation": "Telkom Indonesia",
+      "startDate": "July, 2023",
+      "endDate": "Dec, 2023",
+      "experiences": ["Redesign backend architecture by implementing clean architecture", "Improve table loading speed up to 2 times faster"],
+      "imageSrc": "history/telkom.png"
+    },
+    {
+      "role": "Backend Engineer",
+      "organisation": "DOT Indonesia",
+      "startDate": "May, 2023",
+      "endDate": "Aug, 2023",
+      "experiences": ["Devised a NestJs application, integrating seeding features to enhance testing and debugging efficiency", "Develop web application backend with .NET Core 6 MVC"],
+      "imageSrc": "history/dot.png"
+    }
+  ]
