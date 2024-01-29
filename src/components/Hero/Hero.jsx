@@ -8,7 +8,7 @@ export const Hero = () => {
         <div className={styles.content}>
             <h1 className={styles.title}>Hi I'm Akbar</h1>
             <p className={styles.description}>
-                I'm a Software Engineer with 1 years of experience using Go, Python, Java, and Javascript. Contact me if you want to learn more!
+                I'm a Software Engineer with 1 years of experience using Go, Python, Java, and Javascript. Contact me if you want to know more!
             </p>
             <a href="mailto:akbar.maliki.work@gmail.com" className={styles.contactBtn}>Contact Me</a>
         </div>
