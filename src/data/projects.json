@@ -1,26 +1,34 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Personal Website v2",
+      "imageSrc": "projects/personal_website.png",
+      "description": "This project made to learn React and Vite, credits to YT: Code Complete",
+      "skills": ["React", "Vite", "Node"],
+      "demo": "https://www.akbarmaliki.com",
+      "source": "https://github.com/akbarmaliki10/personal-website-v2"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "barbarr.link",
+      "imageSrc": "projects/barbarr_link.png",
+      "description": "URL Shortener with ExpressJs and MongoDB",
+      "skills": ["Express", "MongoDB", "Sass"],
+      "demo": "https://barbarr.xyz/",
+      "source": "https://github.com/akbarmaliki10/barbarr.link"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "title": "barbarr.tools",
+      "imageSrc": "projects/barbarr_tools.png",
+      "description": "A Discord Bot that can tell us about muslim prayer times, weather, make QR code, and many more!",
       "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "/#projects",
+      "source": "https://github.com/akbarmaliki10/barbarr.tools"
+    },
+    {
+      "title": "Go Clean Architecture",
+      "imageSrc": "projects/clean_architecture.jpg",
+      "description": "This project made to learn Clean Architecture in Go from 3 popular repositories.",
+      "skills": ["Go", "MongoDB", "PostgreSQL", "Clean Architecture", "Testing", "gRPC"],
+      "demo": "/#projects",
+      "source": "https://github.com/orgs/Golang-Clean-Architecture/repositories"
     }
 ]

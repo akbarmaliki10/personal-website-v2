@@ -56,8 +56,7 @@
 .aboutItem h3 {
     font-size: 25px;
     font-weight: 600;
-    color: aqua;
-}
+    color: var(--color-primary);}
 
 .aboutItem p {
     font-size: 25px;

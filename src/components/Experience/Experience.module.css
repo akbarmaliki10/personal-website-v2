@@ -85,7 +85,7 @@
 .historyItemDetails h3 {
   font-size: 30px;
   font-weight: 500;
-  color: aqua;
+  color: var(--color-primary);
 }
 
 .historyItemDetails p {
